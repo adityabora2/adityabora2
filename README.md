@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityabora2&label=Profile%20views&color=0e75b6&style=flat" alt="adityabora2" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aditya_bora18" target="blank"><img src="https://img.shields.io/twitter/follow/aditya_bora18?logo=twitter&style=for-the-badge" alt="aditya_bora18" /></a> </p>
+
 
 - 🔭 I’m currently working on **Back End Developing**
 
