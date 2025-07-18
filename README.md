@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on **Back End Developing**
+- 🔭 I’m currently working on **PRESENT Cipher**
 
-- 🌱 I’m currently learning **Java and Spring Boot**
+- 🌱 I’m currently learning **Deep learning and it's influence over PRESENT cipher**
 
-- 👯 I’m looking to collaborate on **Machine Learning**
+- 👯 I’m looking to collaborate on **AI/ML**
 
 - 📫 How to reach me **adityabora101@gmail.com**
 
